@@ -1,16 +1,40 @@
 ### Hi there 👋
+# Meu Perfil do GitHub
 
-<!--
-**JoseMGomes/JoseMGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Linguagens de Programação
 
-Here are some ideas to get you started:
+- **JavaScript**
+  - React.js
+  - Node.js
+  - TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Python**
+  - Django
+  - Flask
+  - Pandas
+
+- **C**
+  - Manipulação de Strings
+  - Estruturas de Dados
+
+- **HTML/CSS**
+  - HTML5
+  - CSS3
+  - Bootstrap
+
+## Projetos Destacados
+
+- **Projeto 1:** Descrição breve do projeto e linguagens utilizadas.
+- **Projeto 2:** Descrição breve do projeto e linguagens utilizadas.
+- **Projeto 3:** Descrição breve do projeto e linguagens utilizadas.
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_username&show_icons=true&theme=radical)
+
+## Contato
+
+- Email: seu_email@example.com
+- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu_linkedin/)
+- Website: [Seu Website](https://www.seuwebsite.com)
+
