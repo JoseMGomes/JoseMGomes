@@ -1,4 +1,4 @@
-### Olá eu sou o José Lucas ( Zé ) ⭐
+### Olá, eu sou o José Lucas (Zé) ⭐
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gomess.ze/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josé-martins-702426199)
