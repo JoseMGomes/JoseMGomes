@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=140&section=header&text=José%20Lucas%20Martins%20Gomes&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20em%20formação%20%7C%20Fatec%20ADS&descAlignY=58&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=140&section=header&text=José%20Lucas%20Martins%20Gomes&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&"/>
 
 <div align="center">
 
@@ -6,6 +6,20 @@
 
 
 </div>
+
+## 📊 Estatísticas do GitHub
+
+
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=JoseMGomes&theme=dark&hide_border=true&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Sequência de contribuições" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/JoseMGomes?style=for-the-badge&logo=github&color=00bfbf&labelColor=0d1117" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/JoseMGomes?style=for-the-badge&logo=github&color=00bfbf&labelColor=0d1117" alt="Stars" />
+</div>
+
 
 
 ## Tecnologias que utilizo
@@ -35,19 +49,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=JoseMGomes&theme=dark&hide_border=true&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Sequência de contribuições" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/JoseMGomes?style=for-the-badge&logo=github&color=00bfbf&labelColor=0d1117" alt="Seguidores" />
-  <img src="https://img.shields.io/github/stars/JoseMGomes?style=for-the-badge&logo=github&color=00bfbf&labelColor=0d1117" alt="Stars" />
-  <img src="https://img.shields.io/github/commit-activity/y/JoseMGomes/NOME-DO-REPO?style=for-the-badge&logo=git&color=00bfbf&labelColor=0d1117" alt="Commits" />
-</div>
 
 
 
